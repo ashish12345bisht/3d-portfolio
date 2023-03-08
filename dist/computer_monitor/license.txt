@@ -1,0 +1,11 @@
+Model Information:
+* title:	Computer Monitor
+* source:	https://sketchfab.com/3d-models/computer-monitor-d6c02c88cf574f9db8be40761a070b45
+* author:	Etherlyte (https://sketchfab.com/etherlyte)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Computer Monitor" (https://sketchfab.com/3d-models/computer-monitor-d6c02c88cf574f9db8be40761a070b45) by Etherlyte (https://sketchfab.com/etherlyte) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
